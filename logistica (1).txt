@@ -1,0 +1,5 @@
+Ciudad1 Ciudad2 tiempoNormal tiempoLluvia tiempoNieve tiempoTormenta
+NuevaYork LosAngeles 5 7 10 15
+NuevaYork Miami 3 4 6 8
+LosAngeles Chicago 6 8 12 18
+Chicago Miami 4 5 7 10
