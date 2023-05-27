@@ -1,4 +1,5 @@
 public class Edge {
+    //arco
     private Node destination;
     private int weight;
 
