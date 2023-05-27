@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebeabade-5dc9-47be-8079-b07501781c72" name="Changes" comment="Final Commit" />
+    <list default="true" id="ebeabade-5dc9-47be-8079-b07501781c72" name="Changes" comment="JUnit Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDT10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HDT10.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,10 +34,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/bianc/IdeaProjects/HDT10/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,7 +60,7 @@
       <updated>1684717841739</updated>
       <workItem from="1684717843167" duration="386000" />
       <workItem from="1684883942264" duration="2000000" />
-      <workItem from="1685152591451" duration="3461000" />
+      <workItem from="1685152591451" duration="4434000" />
     </task>
     <task id="LOCAL-00001" summary="Primeras implementacio0nes a clase Grafo">
       <created>1684718009073</created>
@@ -75,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685159563897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JUnit Test">
+      <created>1685160003105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685160003105</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +100,7 @@
     <MESSAGE value="Primeras implementacio0nes a clase Grafo" />
     <MESSAGE value="Changes Final" />
     <MESSAGE value="Final Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
+    <MESSAGE value="JUnit Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="JUnit Test" />
   </component>
 </project>
