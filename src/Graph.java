@@ -113,4 +113,8 @@ public class Graph {
     public int getSize() {
         return nodes.size();
     }
+
+    public List<Node> getAdjacentNodes(Node nodeA) {
+        return null;
+    }
 }

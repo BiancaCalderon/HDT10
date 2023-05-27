@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebeabade-5dc9-47be-8079-b07501781c72" name="Changes" comment="Primeras implementacio0nes a clase Grafo">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grafo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ebeabade-5dc9-47be-8079-b07501781c72" name="Changes" comment="Final Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +52,7 @@
       <updated>1684717841739</updated>
       <workItem from="1684717843167" duration="386000" />
       <workItem from="1684883942264" duration="2000000" />
-      <workItem from="1685152591451" duration="2912000" />
+      <workItem from="1685152591451" duration="3461000" />
     </task>
     <task id="LOCAL-00001" summary="Primeras implementacio0nes a clase Grafo">
       <created>1684718009073</created>
@@ -67,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684718009073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes Final">
+      <created>1685159418474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685159418474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final Commit">
+      <created>1685159563897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685159563897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +83,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeras implementacio0nes a clase Grafo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeras implementacio0nes a clase Grafo" />
+    <MESSAGE value="Changes Final" />
+    <MESSAGE value="Final Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
   </component>
 </project>
